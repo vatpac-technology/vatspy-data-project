@@ -18284,6 +18284,9 @@ DNKK-W|Kano (West)|DNKK_W|DNKK-W
 DNMM|Lagos||DNMM
 DRRR|Niamey||DRRR
 DTTC|Tunis||DTTC
+DTTC-N|Tunis North|DTTC_N|DTTC-N
+DTTC-NU|Tunis North Upper|DTTC_NU|DTTC-NU
+DTTC-S|Tunis South|DTTC_S|DTTC-S
 EBBU|Brussels||EBBU
 EBUR|Brussels Upper||EBBU
 EDGG|Langen||EDGG
@@ -18570,10 +18573,14 @@ GMAC-WN|Agadir North West|GMAC_WN|GMAC-WN
 GMAC-WS|Agadir Oceanic South West|GMAC_WS|GMAC-WS
 GMMM|Casablanca||GMMM
 GMMM-ALL|Casablanca|GMMM_ALL|GMMM-ALL
+GMMM-ALL|Casablanca|GMMM_AL1|GMMM-ALL
+GMMM-ALL|Casablanca|GMMM_M|GMMM-ALL
 GMMM-E|Casablanca East|GMMM_E|GMMM-E
 GMMM-N|Casablanca North|GMMM_N|GMMM-N
 GMMM-NE|Casablanca North East|GMMM_NE|GMMM-NE
+GMMM-W|Casablanca West|GMMM_W|GMMM-W
 GMMM-S|Casablanca South|GMMM_S|GMMM-S
+GMMM-SW|Casablanca South West|GMMM_SW|GMMM-SW
 GOOC|Dakar Oceanic||GOOC
 GOOO|Dakar||GOOO
 GVSC|Sal Oceanic||GVSC
